@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p spregdpd Spatial Panel Arellano-Bond Linear Dynamic Regression: Lag & Durbin Models Use spregdpd With STATA 19
